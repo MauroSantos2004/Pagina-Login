@@ -8,4 +8,4 @@ O objetivo deste exercício é familiarizar com a estrutura HTML, CSS e praticar
 
 ## Quer ver como ficou o projeto ?
 
-Clique no link:https://maurosantos2004.github.io/Pagina-Login/
+Clique no link:
