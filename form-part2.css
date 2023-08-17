@@ -73,4 +73,5 @@ input.submit:hover{
     /*background: linear-gradient(to left bottom, purple,white );*/
     background: orange;
     color: black;
+    cursor:pointer;
 }
