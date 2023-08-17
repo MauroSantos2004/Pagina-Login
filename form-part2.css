@@ -49,11 +49,11 @@ input{
 }
 
 input.email{
-    background-image: url('../imagens/icone-usuario.png');
+    background-image: url('imagens/icone-usuario.png');
 }
 
 input.senha{
-    background-image: url('../imagens/icone-cadeado.png');
+    background-image: url('imagens/icone-cadeado.png');
 }
 
 input.submit{
